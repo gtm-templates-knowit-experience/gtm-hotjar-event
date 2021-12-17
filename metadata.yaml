@@ -1,0 +1,6 @@
+homepage: "https://github.com/gtm-templates-knowit-experience/"
+documentation: "https://github.com/gtm-templates-knowit-experience/gtm-hotjar-event"
+versions:
+  # Latest version
+  - sha: e19231212086e7bb9b6d4309bb0aa824bcd8ebb2
+    changeNotes: Initial release.
